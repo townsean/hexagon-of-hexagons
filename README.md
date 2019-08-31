@@ -11,6 +11,9 @@ I thought it would be great to programmatically generate the SVG file necessary 
 
 Additionally, I have been craving writing a web app in vanilla JS and CSS. This projects provides me the opportunity to do so. I have been spoiled by frontend frameworks and feel working on this project will be a great opportunity to further expand my knowledge base.
 
+### An update
+It just occurred to me that application I'm am implementing is really just a honeycomb generator. That probably would have been a more appropriate name for the project, albeit a common name too.
+
 ## Maintainers
 
 * [Ashley Grenon - @townsean](https://github.com/townsean)
