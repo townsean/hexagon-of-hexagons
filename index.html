@@ -9,7 +9,29 @@
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-        <h1>Hexagon of Hexagons</h1>
+        <header>            
+            <h1>Hexagon of Hexagons</h1>
+        </header>
+        <main>
+            <!--Properties-->
+            <section id="input">
+                <label>Hexagons per side:
+                    <input type="number" id="side-length" value="1">
+                </label>
+                <button id="generate">Generate</button>
+            </section>
+            <!--SVG of Hexagon of Hexagons-->
+            <svg>
+                <polygon points="50,0 21,90 98,35 2,35 79,90" fill="none" stroke="black"></polygon>
+            </svg>
+            <!--SVG XML-->
+            <section id="output">
+                <textarea readonly>
+                </textarea>
+                <button id="copy">Copy</button>
+            </section>
+        </main>
+        <footer></footer>
         <script src="main.js"></script>
     </body>
 </html>
