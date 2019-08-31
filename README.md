@@ -9,7 +9,7 @@ I wanted to create a custom tray for the greatest board game of all time: Twilig
 
 I thought it would be great to programmatically generate the SVG file necessary for carving the custom tray for Twilight Imperium. This wheel probably has already been invented before (I haven't looked), but regardless I thought it would be a fun project to implement.
 
-Additionally, I have been craving writing a web app in vanilla JS and CSS. This projects provides me the opportunity to do so. I have been spoiled by frontend frameworks and feel working on this project will be a great opportunity to further expand my knowledge base.
+Additionally, I have been craving writing a web app in vanilla JS and CSS. This project provides me the opportunity to do so. I have been spoiled by frontend frameworks and feel working on this project will be a great opportunity to further expand my knowledge base.
 
 ### An update
 It just occurred to me that the application I'm am implementing is really just a honeycomb generator. That probably would have been a more appropriate name for the project, albeit a common name too.
