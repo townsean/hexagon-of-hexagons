@@ -11,12 +11,6 @@ I thought it would be great to programmatically generate the SVG file necessary 
 
 Additionally, I have been craving writing a web app in vanilla JS and CSS. This projects provides me the opportunity to do so. I have been spoiled by frontend frameworks and feel working on this project will be a great opportunity to further expand my knowledge base.
 
-## Push updates to gh-pages
-```
-git add dist && git commit -m "updating gh-pages"
-git subtree push --prefix dist origin gh-pages
-```
-
 ## Maintainers
 
 * [Ashley Grenon - @townsean](https://github.com/townsean)
