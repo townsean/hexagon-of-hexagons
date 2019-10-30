@@ -26,7 +26,7 @@ Figuring out the algorithm to programmatically draw a regular hexagon (all angle
 ## Built With
 
 * [Modak Google Font](https://fonts.google.com/specimen/Modak)
-* [Lato](https://fonts.google.com/specimen/Lato)
+* [Lato Google Font](https://fonts.google.com/specimen/Lato)
 
 ## Maintainers
 
