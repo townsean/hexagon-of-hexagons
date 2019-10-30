@@ -14,6 +14,11 @@ Additionally, I have been craving writing a web app in vanilla JS and CSS. This 
 ### An update
 It just occurred to me that the application I'm am implementing is really just a honeycomb generator. That probably would have been a more appropriate name for the project, albeit a common name too.
 
+## Built With
+
+* [Modak Google Font](https://fonts.google.com/specimen/Modak)
+* [Lato](https://fonts.google.com/specimen/Lato)
+
 ## Maintainers
 
 * [Ashley Grenon - @townsean](https://github.com/townsean)

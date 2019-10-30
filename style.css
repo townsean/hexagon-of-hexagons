@@ -1,4 +1,22 @@
+body {
+    font-family: 'Lato';
+}
+
+h1, h2 {
+    font-family: 'Modak';
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
 textarea {
     width: 50vh;
     height: 25vh;
+}
+
+svg {
+    height: 50vh;
+    width: 50vh;
 }
