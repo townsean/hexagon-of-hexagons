@@ -14,6 +14,15 @@ Additionally, I have been craving writing a web app in vanilla JS and CSS. This 
 ### An update
 It just occurred to me that the application I'm am implementing is really just a honeycomb generator. That probably would have been a more appropriate name for the project, albeit a common name too.
 
+## A Brief Geometry Lesson
+
+Figuring out the algorithm to programmatically draw a regular hexagon (all angles and sides are equal) required a geometry lesson. Here are a few links I found useful in my research:
+
+* [Schläfli symbol](https://en.wikipedia.org/wiki/Schläfli_symbol)
+* [SVG regular polygons](https://codepen.io/thebabydino/pen/WbjdRq)
+* [Draw a Hexagonal Shape in C#](http://csharphelper.com/blog/2015/10/draw-a-hexagonal-grid-in-c/)
+* [Stack Overflow question about Drawing Hexagons](https://stackoverflow.com/questions/37236439/creating-a-single-hexagon-in-c-sharp-using-drawpolygon/37236667)
+
 ## Built With
 
 * [Modak Google Font](https://fonts.google.com/specimen/Modak)
